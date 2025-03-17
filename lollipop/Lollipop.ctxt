@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Lollipop
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lollipop\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lollipop()
+comment2.params=
+comment2.target=void\ drawLollipop()
+comment2.text=draw\ a\ red\ lollipop\ on\ a\ stick
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
