@@ -46,6 +46,6 @@ public class Lollipop
     }
     public static void main(String[] args){
         Lollipop obj = new Lollipop();
-        obj.drawLollipop();
+        obj.doDrawLollipop();
     }
 }
